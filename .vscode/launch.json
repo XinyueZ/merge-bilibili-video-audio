@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "224385507",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "args": [
+                "--dir",
+                "/Users/zxy/Desktop/offlines/224385507",
+                "--res",
+                "64"
+            ]
+        },
+        {
+            "name": "361834953",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "args": [
+                "--dir",
+                "/Users/zxy/Desktop/offlines/361834953",
+                "--res",
+                "80"
+            ]
+        },
+        {
+            "name": "699255864",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "args": [
+                "--dir",
+                "/Users/zxy/Desktop/offlines/699255864",
+                "--res",
+                "80"
+            ]
+        },
+        {
+            "name": "821613611",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "args": [
+                "--dir",
+                "/Users/zxy/Desktop/offlines/821613611",
+                "--res",
+                "80"
+            ]
+        }
+    ]
+}
